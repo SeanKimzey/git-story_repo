@@ -1,1 +1,1 @@
-This is my git story. I am hoping this step fix the message I just got in terminal. 
+This is my git story. I am hoping this step fix the message I just got in terminal. Adding more. 
