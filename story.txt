@@ -1,2 +1,1 @@
-Today I started the online live portion of the Actualize course. We are updating our story and updating our git repository. THIS IS MY SECOND ADDITION. 
-
+This is my git story. I am hoping this step fix the message I just got in terminal. 
